@@ -1,15 +1,15 @@
-h3.p01{
-	border: 10px solid green;
-	 padding: 20px;
-	 text-align:center;
-	 background-color:blue;
-	 }
-   div {
-	 background-color: lightgrey;
-	 width: 80px;
-	 border: 10px solid green;
-	 padding: 10px;
-	 margin: 8px;
-	 text-align:center;
-   }  
-   
+    h3.p01 {
+    border: 10px solid green;
+    padding: 20px;
+    text-align: center;
+    background-color: blue;
+}
+
+div {
+    background-color: rgba(211, 211, 211, 0.959);
+    width: 80px;
+    border: 10px solid green;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+}
